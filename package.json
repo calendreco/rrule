@@ -18,5 +18,8 @@
     },
     "scripts": {
         "test": "echo Run tests in the browser at tests/index.html"
+    },
+    "dependencies": {
+        "exenv": "^1.2.0"
     }
 }
